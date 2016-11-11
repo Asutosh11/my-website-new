@@ -79,7 +79,7 @@
             <div class='flip-center'>
             <br>
             <center>
-                <h4><a href = 'http://pirocket.com/wordpress/'></a></center><h4></center>
+                <h4><a href = ''></a></center><h4></center>
         </div>         
 <br>
         <div class = 'flip-center2'>        
@@ -93,7 +93,7 @@
                 <div class='flip-center'>
             <br>
             <center>
-                <h4><a href = 'http://pirocket.com/wordpress/'></a></center><h4></center>
+                <h4><a href = ''></a></center><h4></center>
         </div>         
 <br>
         <div class = 'flip-center2'>        
