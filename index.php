@@ -63,7 +63,7 @@
         <div class='flip-center'>
             <br>
             <center>
-                <h4><a href = './android-recycler-view-code-generator/index.php'>Android RecyclerView Code Generator</a></center><h4></center>
+                <h4><a href = 'https://recyclerview-code-gen.herokuapp.com/'>Android RecyclerView Code Generator</a></center><h4></center>
         </div>         
 <br>
         <div class = 'flip-center2'>        
